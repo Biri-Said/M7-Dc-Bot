@@ -25,7 +25,7 @@ Bu proje, eğitimli bir makine öğrenimi modeli kullanarak görselleri otomatik
 ![Ana Arayüz](https://example.com/screenshot1.png)
 
 ### Tahmin Sonucu:
-![Sonuç](https://example.com/screenshot2.png)
+![Sonuç](Kullanım Örneği.png)
 
 ## ⚙️ Kurulum
 
