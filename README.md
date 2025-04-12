@@ -26,7 +26,8 @@ Bu proje, eğitimli bir makine öğrenimi modeli kullanarak görselleri otomatik
 
 
 ### Tahmin Sonucu:
-![Sonuç]![image](https://github.com/user-attachments/assets/56b01e65-1230-4a90-92d5-c4d17ad0ca8b)
+![Sonuç]![image](https://github.com/user-attachments/assets/cf34c96c-8aa1-4c14-916d-3eb595164ff0)
+
 
 
 ## ⚙️ Kurulum
