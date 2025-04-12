@@ -22,10 +22,12 @@ Bu proje, eğitimli bir makine öğrenimi modeli kullanarak görselleri otomatik
 ## 📸 Ekran Görüntüleri
 
 ### Ana Arayüz:
-![Ana Arayüz](https://example.com/screenshot1.png)
+![Ana Arayüz]![image](https://github.com/user-attachments/assets/633aa9d5-d90b-44fb-85ca-d919538bbc31)
+
 
 ### Tahmin Sonucu:
-![Sonuç](Kullanım Örneği.png)
+![Sonuç]![image](https://github.com/user-attachments/assets/56b01e65-1230-4a90-92d5-c4d17ad0ca8b)
+
 
 ## ⚙️ Kurulum
 
